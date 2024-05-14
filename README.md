@@ -1,5 +1,7 @@
 This repository is about the capstone project part of the IBM Front-End Professional Certificate.
 
+The project is about a MEdical Appoitment Booking Website.
+
 Please consider the below factors while contributing
 
 Code Style: Maintain a consistent code style for readability.
